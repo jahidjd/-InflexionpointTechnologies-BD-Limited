@@ -5,6 +5,6 @@ http://127.0.0.1:8000/api/login      <-----login api----->
 http://127.0.0.1:8000/api/logout       <-----logout api----->
    
 
-  <-----after login or registration and set the bearer token----->
+  <-----after login or registration and set the bearer token you can access the data----->
 http://127.0.0.1:8000/api/UserData  <-----userData api----->
 
